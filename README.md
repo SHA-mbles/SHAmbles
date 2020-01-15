@@ -98,7 +98,7 @@ Last year, we announced a new chosen-prefix collision attack, as you can see [he
 
 ## Can I try it out for myself?
  
-Since our attack on SHA-1 has pratical implications, in order to make sure proper countermeasures have been pushed we will wait for some time before releasing source code that allows to generate SHA-1 chosen-prefix collisions.   
+Since our attack on SHA-1 has practical implications, in order to make sure proper countermeasures have been pushed we will wait for some time before releasing source code that allows to generate SHA-1 chosen-prefix collisions.   
 
 - - -
 # Contact
