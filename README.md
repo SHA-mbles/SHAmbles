@@ -22,7 +22,7 @@ Using our SHA-1 chosen-prefix collision, we have created two PGP keys with diffe
 
 # Our Chosen-Prefix Collision Example
 
-We have create a chosen-prefix collision with prefixes `99040d047fe81780012000` and `99030d047fe81780011800` (in hexadecimal notation).  You can download the two messages below, and verify their hash with the `sha1sum` tool:
+We created a chosen-prefix collision with prefixes `99040d047fe81780012000` and `99030d047fe81780011800` (in hexadecimal notation).  You can download the two messages below, and verify their hash with the `sha1sum` tool:
 - [messageA](messageA)
 - [messageB](messageB)
 
